@@ -1,0 +1,5 @@
+org/sonatype/mavenbook/custom/simple/weather/YahooRetriever.class
+org/sonatype/mavenbook/custom/simple/weather/Main.class
+org/sonatype/mavenbook/custom/simple/weather/WeatherFormatter.class
+org/sonatype/mavenbook/custom/simple/weather/Weather.class
+org/sonatype/mavenbook/custom/simple/weather/YahooParser.class
